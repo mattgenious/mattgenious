@@ -25,4 +25,3 @@
 
 <h3 align="left">Flair:</h3>
 <a href="https://stackoverflow.com/users/5673324/matt-luccas-phaure-minet"><img src="https://stackoverflow.com/users/flair/5673324.png?theme=dark" width="208" height="58" alt="profile for Matt Luccas Phaure Minet at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Matt Luccas Phaure Minet at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
-<img width="480" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=mattgenious&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"/>
