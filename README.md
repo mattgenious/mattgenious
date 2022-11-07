@@ -1,16 +1,11 @@
 <h1 align="center">Hi my name is Matt</h1>
 <h3 align="center">A software engineer from Denmark, currently the CTO of Vuffeli ApS</h3>
 
-- 🔭 I’m currently working on [WebshipperSharp](https://github.com/mattgenious/WebshipperSharp)
-
-- 👯 I’m looking to collaborate on [QuickPaySharp](https://github.com/mattgenious/QuickPaySharp)
-
-- 🤝 I’m looking for help with [RechargeSharp](https://github.com/mattgenious/RechargeSharp)
+- 🤝 I’m looking for help with [RechargeSharp](https://github.com/mattgenious/RechargeSharp), [WebshipperSharp](https://github.com/mattgenious/WebshipperSharp) and [QuickPaySharp](https://github.com/mattgenious/QuickPaySharp)
 
 - 💬 Ask me about **.NET, Blazor, AWS**
 
 - 📫 How to reach me **matt.l.p.jensen@gmail.com**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
