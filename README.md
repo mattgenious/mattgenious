@@ -1,5 +1,5 @@
 <h1 align="center">Hi my name is Matt</h1>
-<h3 align="center">A software engineer from Denmark, currently the CTO of Vuffeli ApS</h3>
+<h3 align="center">A software engineer from Denmark, currently Senior Engineering Manager at The LEGO Group</h3>
 
 - 🤝 I’m looking for help with [RechargeSharp](https://github.com/mattgenious/RechargeSharp), [WebshipperSharp](https://github.com/mattgenious/WebshipperSharp) and [QuickPaySharp](https://github.com/mattgenious/QuickPaySharp)
 
