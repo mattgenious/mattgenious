@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2800&pause=900&color=2F80ED&center=true&vCenter=true&width=820&lines=Hi%2C+I'm+Matt+Luccas+Phaure+Jensen;Senior+Software+Engineer+at+the+LEGO+Group;Agent+wrangler;I+turn+messy+systems+into+clear+ones" alt="Hi, I'm Matt Luccas Phaure Jensen - Senior Software Engineer at the LEGO Group, agent wrangler, and systems simplifier" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2800&pause=900&color=2F80ED&center=true&vCenter=true&width=820&lines=Hi%2C+I'm+Matt+Luccas+Phaure+Jensen;Senior+%22Agent+Wrangler%22+at+the+LEGO+Group;I+turn+messy+systems+into+clear+ones" alt="Hi, I'm Matt Luccas Phaure Jensen - Senior Agent Wrangler at the LEGO Group and systems simplifier" />
 </p>
 
 <p align="center">
-  <strong>Senior Software Engineer at the LEGO Group</strong> / Denmark / .NET, cloud, integrations, and agent-shaped workflows
+  <strong>Senior "Agent Wrangler" at the LEGO Group</strong> / Denmark / .NET, cloud, integrations, and agent-shaped workflows
 </p>
 
 <p align="center">
