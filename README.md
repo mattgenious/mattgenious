@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/mattgenious">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2800&pause=900&color=2F80ED&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Matt+Luccas+Phaure+Jensen;Software+engineer+and+engineering+leader;I+turn+messy+systems+into+clear+ones" alt="Hi, I'm Matt Luccas Phaure Jensen - software engineer and engineering leader" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2800&pause=900&color=2F80ED&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Matt+Luccas+Phaure+Jensen;Software+engineer+and+engineering+leader;Agent+wrangler;I+turn+messy+systems+into+clear+ones" alt="Hi, I'm Matt Luccas Phaure Jensen - software engineer, engineering leader, and agent wrangler" />
   </a>
 </p>
 
@@ -56,8 +56,18 @@ My bias is toward useful software: clear boundaries, observable behavior, boring
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mattgenious&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="Matt's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattgenious&layout=compact&theme=transparent&hide_border=true" alt="Matt's top languages" height="165" />
+  <a href="https://github.com/mattgenious">
+    <img src="https://github-readme-stats.vercel.app/api?username=mattgenious&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="Matt's GitHub stats" height="165" />
+  </a>
+  <a href="https://github.com/mattgenious?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattgenious&layout=compact&theme=transparent&hide_border=true" alt="Matt's top languages" height="165" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/mattgenious">GitHub profile</a> /
+  <a href="https://github.com/mattgenious?tab=repositories">Repositories</a> /
+  <a href="https://stackoverflow.com/users/5673324/matt-luccas-phaure-minet">Stack Overflow</a>
 </p>
 
 <p align="center">
