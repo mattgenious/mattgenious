@@ -50,8 +50,8 @@ I have moved between backend engineering, cloud platforms, ecommerce integration
 - Prefer clarity over cleverness, and precise language over comforting fuzziness.
 - Build with enough care that the next person feels less alone in the codebase.
 - Stay curious, keep learning, and treat good pushback as a gift.
-- Aim for calm strength: useful under pressure, not just impressive in demos.
-- Make room for gratitude, because software is still built by people with finite lives.
+- Stay useful under pressure, and keep the work grounded when things get noisy.
+- Make room for gratitude, because software is still built by people.
 
 ### Toolbox
 
