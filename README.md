@@ -1,22 +1,133 @@
-<h1 align="center">Hi my name is Matt</h1>
-<h3 align="center">A software engineer from Denmark, currently Senior Engineering Manager at The LEGO Group</h3>
-
-- 🤝 I’m looking for help with [RechargeSharp](https://github.com/mattgenious/RechargeSharp), [WebshipperSharp](https://github.com/mattgenious/WebshipperSharp) and [QuickPaySharp](https://github.com/mattgenious/QuickPaySharp)
-
-- 💬 Ask me about **.NET, Blazor, AWS**
-
-- 📫 How to reach me **matt.l.p.jensen@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mattlpminet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mattlpminet" height="30" width="40" /></a>
-<a href="https://twitter.com/delukse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="delukse" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mattgenious" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mattgenious" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/5673324" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="5673324" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2800&pause=900&color=2F80ED&center=true&vCenter=true&width=820&lines=Hi%2C+I'm+Matt+Luccas+Phaure+Jensen;Senior+%22Agent+Wrangler%22+at+the+LEGO+Group;I+turn+messy+systems+into+clear+ones" alt="Hi, I'm Matt Luccas Phaure Jensen - Senior Agent Wrangler at the LEGO Group and systems simplifier" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <strong>Senior "Agent Wrangler" at the LEGO Group</strong> / Denmark / .NET, cloud, integrations, and agent-shaped workflows
+</p>
 
-<h3 align="left">Flair:</h3>
-<a href="https://stackoverflow.com/users/5673324/matt-luccas-phaure-minet"><img src="https://stackoverflow.com/users/flair/5673324.png?theme=dark" width="208" height="58" alt="profile for Matt Luccas Phaure Minet at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Matt Luccas Phaure Minet at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mattlpminet/">LinkedIn</a> /
+  <a href="https://stackoverflow.com/users/5673324/matt-luccas-phaure-minet">Stack Overflow</a> /
+  <a href="https://www.hackerrank.com/mattgenious">HackerRank</a> /
+  <a href="mailto:matt.l.p.jensen@gmail.com">Email</a>
+</p>
+
+---
+
+I build software at the point where architecture, product judgment, and hands-on debugging meet. I like the work of making complicated systems legible: the API that finally reads clearly, the integration that stops surprising people, the deployment path that becomes boring in the best possible way.
+
+I have moved between backend engineering, cloud platforms, ecommerce integrations, developer tooling, and engineering leadership. Lately I have also been spending a lot of energy on agent-assisted workflows: not as magic, but as another sharp tool that needs taste, constraints, and a human who still knows where the dragons are.
+
+### What I Work On
+
+| Area | What that usually means |
+| --- | --- |
+| Backend systems | .NET, C#, API design, integrations, data flows, reliability |
+| Frontend and product | Blazor, React, Svelte, TypeScript, pragmatic UX decisions |
+| Cloud and operations | AWS, Azure, Docker, CI/CD, observability, production debugging |
+| Agent wrangling | Tooling, prompts, repo harnesses, review loops, and keeping agents useful instead of theatrical |
+| Engineering leadership | Architecture clarity, team enablement, technical strategy, mentoring |
+
+### Selected Projects
+
+| Project | Why it exists | Focus |
+| --- | --- | --- |
+| [RechargeSharp](https://github.com/mattgenious/RechargeSharp) | A .NET client and entity layer for the Recharge Payments API. | Ecommerce integrations |
+| [QuickPaySharp](https://github.com/mattgenious/QuickPaySharp) | A modern .NET client library for the QuickPay API. | Payments |
+| [WebshipperSharp](https://github.com/mattgenious/WebshipperSharp) | A .NET client for integrating with the Webshipper API. | Shipping and logistics |
+
+### Current Interests
+
+- Making complex technical organizations easier to understand and improve.
+- Building agent-assisted workflows that help software teams move faster without losing judgment.
+- Turning operational mess into systems that are observable, maintainable, and calm to run.
+- Keeping .NET integrations pleasant for the next developer who has to touch them.
+
+### Operating Principles
+
+- Take responsibility for the systems I touch, including the human ones.
+- Prefer clarity over cleverness, and precise language over comforting fuzziness.
+- Build with enough care that the next person feels less alone in the codebase.
+- Stay curious, keep learning, and treat good pushback as a gift.
+- Stay useful under pressure, and keep the work grounded when things get noisy.
+- Make room for gratitude, because software is still built by people.
+
+### Toolbox
+
+<p><strong>Daily drivers</strong></p>
+
+<p>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white" alt="Blazor" />
+  <img src="https://img.shields.io/badge/.NET%20Aspire-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET Aspire" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+</p>
+
+<p><strong>Frontend and product work</strong></p>
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111111" alt="React" />
+  <img src="https://img.shields.io/badge/SolidJS-2C4F7C?style=flat-square&logo=solid&logoColor=white" alt="SolidJS" />
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white" alt="Svelte" />
+  <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" alt="Astro" />
+  <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron" />
+  <img src="https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white" alt="Bun" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" alt="Chart.js" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+</p>
+
+<p><strong>Cloud, data, and operations</strong></p>
+
+<p>
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
+  <img src="https://img.shields.io/badge/Loki-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Loki" />
+  <img src="https://img.shields.io/badge/Vector-000000?style=flat-square&logo=vectorlogozone&logoColor=white" alt="Vector" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
+  <img src="https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white" alt="Kibana" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111111" alt="Linux" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" />
+</p>
+
+<p><strong>Also in the toolbox</strong></p>
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=111111" alt="Adobe Illustrator" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=111111" alt="Adobe Photoshop" />
+</p>
+
+### Elsewhere
+
+<p>
+  <a href="https://www.linkedin.com/in/mattlpminet/">LinkedIn</a> is the best place for professional context.
+  <a href="https://stackoverflow.com/users/5673324/matt-luccas-phaure-minet">Stack Overflow</a> has the old Q&amp;A trail.
+  <a href="mailto:matt.l.p.jensen@gmail.com">Email</a> works when the thing is specific.
+</p>
+
+<p align="center">
+  <a href="https://stackoverflow.com/users/5673324/matt-luccas-phaure-minet">
+    <img src="https://stackoverflow.com/users/flair/5673324.png?theme=dark" width="208" height="58" alt="Stack Overflow profile for Matt Luccas Phaure Jensen" />
+  </a>
+</p>
+
+<p align="center">
+  If you like calm systems, useful agents, and codebases that are kind to the next person, we will probably get along.
+</p>
