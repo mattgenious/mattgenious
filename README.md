@@ -1,22 +1,67 @@
-<h1 align="center">Hi my name is Matt</h1>
-<h3 align="center">A software engineer from Denmark, currently Senior Engineering Manager at The LEGO Group</h3>
-
-- 🤝 I’m looking for help with [RechargeSharp](https://github.com/mattgenious/RechargeSharp), [WebshipperSharp](https://github.com/mattgenious/WebshipperSharp) and [QuickPaySharp](https://github.com/mattgenious/QuickPaySharp)
-
-- 💬 Ask me about **.NET, Blazor, AWS**
-
-- 📫 How to reach me **matt.l.p.jensen@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mattlpminet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mattlpminet" height="30" width="40" /></a>
-<a href="https://twitter.com/delukse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="delukse" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mattgenious" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mattgenious" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/5673324" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="5673324" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/mattgenious">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2800&pause=900&color=2F80ED&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Matt+Luccas+Phaure+Jensen;Software+engineer+and+engineering+leader;I+turn+messy+systems+into+clear+ones" alt="Hi, I'm Matt Luccas Phaure Jensen - software engineer and engineering leader" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mattlpminet/">LinkedIn</a> /
+  <a href="https://stackoverflow.com/users/5673324/matt-luccas-phaure-minet">Stack Overflow</a> /
+  <a href="https://github.com/mattgenious?tab=repositories">Repositories</a> /
+  <a href="mailto:matt.l.p.jensen@gmail.com">Email</a>
+</p>
 
-<h3 align="left">Flair:</h3>
-<a href="https://stackoverflow.com/users/5673324/matt-luccas-phaure-minet"><img src="https://stackoverflow.com/users/flair/5673324.png?theme=dark" width="208" height="58" alt="profile for Matt Luccas Phaure Minet at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Matt Luccas Phaure Minet at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+---
+
+I am a Denmark-based Senior Software Engineer at the LEGO Group who likes the point where architecture, product judgment, and hands-on debugging meet. I have worked across backend systems, cloud platforms, developer tooling, ecommerce integrations, and engineering leadership.
+
+My bias is toward useful software: clear boundaries, observable behavior, boring deployment paths, and enough polish that other people can actually use the thing.
+
+### What I Work On
+
+| Area | What that usually means |
+| --- | --- |
+| Backend systems | .NET, C#, API design, integrations, data flows, reliability |
+| Frontend and product | Blazor, React, Svelte, TypeScript, pragmatic UX decisions |
+| Cloud and operations | AWS, Azure, Docker, CI/CD, observability, production debugging |
+| Engineering leadership | Architecture clarity, team enablement, technical strategy, mentoring |
+
+### Selected Projects
+
+| Project | Why it exists |
+| --- | --- |
+| [RechargeSharp](https://github.com/mattgenious/RechargeSharp) | A .NET client and entity layer for the Recharge Payments API. |
+| [QuickPaySharp](https://github.com/mattgenious/QuickPaySharp) | A modern .NET client library for the QuickPay API. |
+| [WebshipperSharp](https://github.com/mattgenious/WebshipperSharp) | A .NET client for integrating with the Webshipper API. |
+
+### Current Interests
+
+- Making complex technical organizations easier to understand and improve.
+- Building agent-assisted workflows that help software teams move faster without losing judgment.
+- Turning operational mess into systems that are observable, maintainable, and calm to run.
+- Keeping .NET integrations pleasant for the next developer who has to touch them.
+
+### Toolbox
+
+<p>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mattgenious&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="Matt's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattgenious&layout=compact&theme=transparent&hide_border=true" alt="Matt's top languages" height="165" />
+</p>
+
+<p align="center">
+  <a href="https://stackoverflow.com/users/5673324/matt-luccas-phaure-minet">
+    <img src="https://stackoverflow.com/users/flair/5673324.png?theme=dark" width="208" height="58" alt="Stack Overflow profile for Matt Luccas Phaure Jensen" />
+  </a>
+</p>
