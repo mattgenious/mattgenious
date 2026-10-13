@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2800&pause=900&color=2F80ED&center=true&vCenter=true&width=820&lines=Hi%2C+I'm+Matt+Luccas+Phaure+Jensen;Senior+%22Agent+Wrangler%22+at+the+LEGO+Group;I+turn+messy+systems+into+clear+ones" alt="Hi, I'm Matt Luccas Phaure Jensen - Senior Agent Wrangler at the LEGO Group and systems simplifier" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2800&pause=900&color=2F80ED&center=true&vCenter=true&width=820&lines=Hi%2C+I'm+Matt+Luccas+Phaure+Jensen;Senior+%22Agent+Wrangler%22+at+the+LEGO+Group;I+build+clear+and+maintainable+systems" alt="Hi, I'm Matt Luccas Phaure Jensen - Senior Agent Wrangler at the LEGO Group and systems simplifier" />
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 I build software at the point where architecture, product judgment, and hands-on debugging meet. I like the work of making complicated systems legible: the API that finally reads clearly, the integration that stops surprising people, the deployment path that becomes boring in the best possible way.
 
-I have moved between backend engineering, cloud platforms, ecommerce integrations, developer tooling, and engineering leadership. Lately I have also been spending a lot of energy on agent-assisted workflows: not as magic, but as another sharp tool that needs taste, constraints, and a human who still knows where the dragons are.
+I have moved between backend engineering, cloud platforms, ecommerce integrations, developer tooling, and engineering leadership. Lately I have also been spending a lot of energy on agent-assisted workflows, with a focus on thoughtful design, clear constraints, and human judgment.
 
 ### What I Work On
 
@@ -26,7 +26,7 @@ I have moved between backend engineering, cloud platforms, ecommerce integration
 | Backend systems | .NET, C#, API design, integrations, data flows, reliability |
 | Frontend and product | Blazor, React, Svelte, TypeScript, pragmatic UX decisions |
 | Cloud and operations | AWS, Azure, Docker, CI/CD, observability, production debugging |
-| Agent wrangling | Tooling, prompts, repo harnesses, review loops, and keeping agents useful instead of theatrical |
+| Agent wrangling | Tooling, prompts, repo harnesses, review loops, and making agents useful |
 | Engineering leadership | Architecture clarity, team enablement, technical strategy, mentoring |
 
 ### Selected Projects
@@ -40,14 +40,14 @@ I have moved between backend engineering, cloud platforms, ecommerce integration
 ### Current Interests
 
 - Making complex technical organizations easier to understand and improve.
-- Building agent-assisted workflows that help software teams move faster without losing judgment.
-- Turning operational mess into systems that are observable, maintainable, and calm to run.
+- Building agent-assisted workflows that support software teams with clear decisions and effective delivery.
+- Building systems that are observable, maintainable, and straightforward to operate.
 - Keeping .NET integrations pleasant for the next developer who has to touch them.
 
 ### Operating Principles
 
 - Take responsibility for the systems I touch, including the human ones.
-- Prefer clarity over cleverness, and precise language over comforting fuzziness.
+- Value clarity and precise language.
 - Build with enough care that the next person feels less alone in the codebase.
 - Stay curious, keep learning, and treat good pushback as a gift.
 - Stay useful under pressure, and keep the work grounded when things get noisy.
